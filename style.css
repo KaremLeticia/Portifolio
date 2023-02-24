@@ -76,7 +76,7 @@ color: #fff;
 
 .home{
     display: flex;
-    background: url(image/bannervazio.png) no-repeat center;
+    background: url(img/bannervazio.png) no-repeat center;
     background-size: cover;
     height: 100vh;
     color: #fff;
