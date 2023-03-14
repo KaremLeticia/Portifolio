@@ -385,6 +385,10 @@ section .title::after{
     width: 42%;
 }
 
+.skills .skills-content .right .Python::beffore{
+     width: 51%;
+}
+
 /*  Sessãoo projetos */
 
 .projetos{
